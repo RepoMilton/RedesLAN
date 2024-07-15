@@ -15,10 +15,17 @@ Cada una de las etapas tambien nos permitira desarrollar competencias de Product
     -> Identificar los componentes apropiados para cada situación
     -> Cuidar y manejar los recursos y bienes ajenos siguiendo normas y disposiciones definidas.
 
- 
 # EXAMEN DIAGNOSTICO
   El proposito del examen de diagnostico es para saber el nivel de conocimientos de manera general de lo que entienden ustedes por Redes de Computadora. Para poder evaluarlos favor de ingresar al siguiente enlace:
 
 [Diagnostico](https://github.com/RepoMilton/DiagnosticoRedes.git)
+
+# CONTROL DE ASISTENCIA Y REGISTRO DE ACTIVIDADES
+El uso de las tecnologias nos permiten aprovechar al máximo el beneficio que ofrecen cada una de ellas y debemos aprovecharlas haciendo uso de ellas de de manera adecuada.
+
+Les comparto el siguiente enlace el cual les permitirá a ustedes como alumnos hacer la entrega de sus actividades en linea y registrar su asistencia diaria. Seamos responsables 
+con la informacion que vertimos en la liga.
+[Control](https://github.com/RepoMilton/ListaControl.git)
+
 
 
