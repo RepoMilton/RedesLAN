@@ -28,4 +28,13 @@ con la informacion que vertimos en la liga.
 [Control](https://github.com/RepoMilton/ListaControl.git)
 
 
+# Instrumentos de Evaluacion
+
+El sentido educativo de la evaluación del desempeño es valorar el aprendizaje y la enseñanza contribuyendo al perfeccionamiento de las prácticas profesionales en los distintos niveles de responsabilidad favoreciendo 
+la mejora permanente del proceso formativo
+
+[Instrumento de Evaluacion](https://github.com/RepoMilton/ListaCotejo.git) 
+
+
+
 
