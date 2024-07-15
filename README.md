@@ -11,4 +11,6 @@ Al finalizar el módulo el estudiante será capaz de:
 # EXAMEN DIAGNOSTICO
   El proposito del examen de diagnostico es para saber el nivel de conocimientos de manera general de lo que entienden ustedes por Redes de Computadora. Para poder evaluarlos favor de ingresar al siguiente enlace:
 
+[Diagnostico](https://github.com/RepoMilton/DiagnosticoRedes.git)
+
 
