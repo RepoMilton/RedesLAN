@@ -1,5 +1,11 @@
-# INTRODUCCION
+# CLASIFICA Y DISEÑA REDES LAN
 
-Las redes informáticas permiten que los usuarios compartan recursos y se comuniquen. ¿Puede imaginar un mundo sin correos electrónicos, periódicos en línea, blogs, sitios web y otros servicios ofrecidos por Internet?Las redes también permiten que los usuarios compartan recursos, como impresoras, aplicaciones, archivos,directorios y unidades de almacenamiento. En este capítulo, se brinda una descripción general de los principios,los  estándares  y  los  propósitos  de  las  redes.  Los  profesionales  de  TI  deben  estar  familiarizados  con  los conceptos de redes para cumplir con las expectativas y las necesidades de los clientes y los usuarios de redes.
-Aprenderá los conceptos básicos del diseño de redes y la manera en que los dispositivos de red afectan el flujo de datos. Estos dispositivos incluyen: concentradores, switches, puntos de acceso, routers y firewalls. También se cubren diferentes tipos de conexión a Internet, como DSL, cable, red celular y satélite. Aprenderá sobre las cuatro capas del modelo de TCP/IP y las funciones y los protocolos asociados a cada capa. También aprenderá sobre muchas redes inalámbricas y protocolos. Esto incluye los protocolos de LAN inalámbrica IEEE 802.11,los  protocolos  inalámbricos  para  la  proximidad  cercana,  como  la  identificación  de  frecuencia  (RFID),  la comunicación de campo cercano (NFC) y los estándares de protocolo de casa inteligente, por ejemplo, ZigBee y Z-Wave. Este conocimiento lo ayudará a diseñar, implementar y resolver problemas de las redes con éxito. El capítulo concluye con debates sobre los tipos de cable de red: par trenzado, fibra óptica y coaxial. Aprenderá cómo se construye cada tipo de cable, cómo transportan señales de datos y los casos de uso adecuados para cada uno.
-Es importante no solo aprender sobre los componentes y el funcionamiento de la red informática, sino también crear destrezas prácticas. En este capítulo, armará y probará un cable de par trenzado no blindado (UTP) directo para redes Ethernet.
+Al finalizar el módulo el estudiante será capaz de:
+• Diseñar redes de computadoras
+    • Clasificar los elementos básicos de la red LAN
+    • Diseñar la red LAN
+
+# EXAMEN DIAGNOSTICO
+  El proposito del examen de diagnostico es para saber el nivel de conocimientos de manera general de lo que entienden ustedes por Redes de Computadora. Para poder evaluarlos favor de ingresar al siguiente enlace:
+
+
