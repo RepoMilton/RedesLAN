@@ -1,6 +1,7 @@
 # CLASIFICA Y DISEÑA REDES LAN
 
 Al finalizar el módulo el estudiante será capaz de:
+
 • Diseñar redes de computadoras
     • Clasificar los elementos básicos de la red LAN
     • Diseñar la red LAN
